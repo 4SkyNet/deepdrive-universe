@@ -1,3 +1,7 @@
+# Env down
+
+Then Universe environment repo, universe-windows-envs, for DeepDrive is currently down. Please bear with us as we sort it out.
+
 # DeepDrive in [Universe](https://universe.openai.com/)
 
 _Pretrained self-driving car models that run in GTAV / Universe_
